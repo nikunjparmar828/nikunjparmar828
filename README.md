@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 ## Contact 📫
 LinkedIn: [Nikunj Parmar](https://github.com/nikunjparmar828) <br>
 Email: nparmar@wpi.edu <br>
-LeetCode: [Nikunj Parmar] (https://leetcode.com/nikunjparmar/)
+LeetCode: [Nikunj Parmar](https://leetcode.com/nikunjparmar/)
