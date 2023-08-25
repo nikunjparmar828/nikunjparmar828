@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Welcome to my GitHub page!
 ## Education 🌱
 - Master of Science in Robotics Engineering, [Worcester Polytechnic Institute, MA, USA](https://www.wpi.edu/) (May 2023) <br>
-- Bachelor of Technology in Mechanical Engineering, [Nirma University, India](https://nirmauni.ac.in/) (2020) <br>
+- Bachelor of Technology in Mechanical Engineering, [Nirma University, India](https://nirmauni.ac.in/) (June 2020) <br>
 
 ## Key Projects 🔭
 ### Motion Planning & Perception:
