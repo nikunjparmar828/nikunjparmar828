@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 - Bachelor of Technology in Mechanical Engineering, [Nirma University, India](https://nirmauni.ac.in/) (June 2020) <br>
 
 ## Key Projects 🔭
+### Controls:
+- [Sliding Mode Control for Quadrotor UAVs](https://github.com/nikunjparmar828/RBE502-Controls/tree/main/Quadrotor%20UAVs%20using%20Sliding%20Mode%20Control)
+- [Trajectory tracking for DOBOT CR-3 Robot](https://github.com/nikunjparmar828/RBE501-Dynamics-Code/tree/main/DOBOT%20CR-3%20Robot%20Trajectory%20Tracking)
+- [Various Robot Manipulator's Controls Algorithms](https://github.com/nikunjparmar828/RBE502-Controls)
 ### Deep Learning:
 - [A-Hybrid-Spatial-Temporal-Deep-Learning-Architecture-for-Lane-Detection](https://github.com/nikunjparmar828/A-Hybrid-Spatial-Temporal-Deep-Learning-Architecture-for-Lane-Detection)
 - [English to French Translator](https://github.com/nikunjparmar828/Deep-Learning-based-Seq2Seq-English-to-French)
@@ -28,10 +32,6 @@ Here are some ideas to get you started:
 - [Multi Target Tracking System for Autonomous Cars](https://github.com/nikunjparmar828/MTT-System-GNN-Tracker)
 - [LEGO + Augmented Reality based Book Reading](https://github.com/nikunjparmar828/Deep-Learning-based-Book-Reading-using-Hololens-2.0)
 - [Object Detection using Haar-Cascade](https://github.com/nikunjparmar828/Haar-Cascade-Custom-Object-Detection)
-### Controls:
-- [Sliding Mode Control for Quadrotor UAVs](https://github.com/nikunjparmar828/RBE502-Controls/tree/main/Quadrotor%20UAVs%20using%20Sliding%20Mode%20Control)
-- [Trajectory tracking for DOBOT CR-3 Robot](https://github.com/nikunjparmar828/RBE501-Dynamics-Code/tree/main/DOBOT%20CR-3%20Robot%20Trajectory%20Tracking)
-- [Various Robot Manipulator's Controls Algorithms](https://github.com/nikunjparmar828/RBE502-Controls)
 
 ## Contact 📫
 LinkedIn: [Nikunj Parmar](https://github.com/nikunjparmar828) <br>
