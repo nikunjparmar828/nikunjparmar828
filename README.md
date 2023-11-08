@@ -30,6 +30,7 @@ Let's connect and explore how we can shape the future of robotics together.<be>
 ### Motion Planning, Perception, Localization & Mapping
 - [Multi Target Tracking System for Autonomous Cars](https://github.com/nikunjparmar828/MTT-System-GNN-Tracker)
 - [Auto Parking for Autonomous Cars](https://github.com/nikunjparmar828/Motion-Planning/tree/main/RBE%20505%20Auto%20Parking)
+- [GPS + Visual-Inertial Odometry Fusion using Kalman Filter](https://github.com/nikunjparmar828/GPS-and-Visual-Odometry-Fusion-using-Kalman-Filter-/tree/main)
 - [LEGO + Augmented Reality based Book Reading](https://github.com/nikunjparmar828/Deep-Learning-based-Book-Reading-using-Hololens-2.0)
 - [Object Detection using Haar-Cascade](https://github.com/nikunjparmar828/Haar-Cascade-Custom-Object-Detection)
 ### Controls:
