@@ -27,14 +27,14 @@ My achievements span from driving innovative products to market to pioneering no
 Let's connect and explore how we can shape the future of robotics together.<be>
 
 ## Key Projects 🔭
-### Motion Planning, Perception, Localization & Mapping
+### Motion Planning, Computer Vision, Localization & Mapping
 - [Multi Target Tracking System for Autonomous Cars](https://github.com/nikunjparmar828/MTT-System-GNN-Tracker)
 - [Auto Parking for Autonomous Cars](https://github.com/nikunjparmar828/Motion-Planning/tree/main/RBE%20505%20Auto%20Parking)
 - [GPS + Visual-Inertial Odometry Fusion using Kalman Filter](https://github.com/nikunjparmar828/GPS-and-Visual-Odometry-Fusion-using-Kalman-Filter-/tree/main)
 - [LEGO + Augmented Reality based Book Reading](https://github.com/nikunjparmar828/Deep-Learning-based-Book-Reading-using-Hololens-2.0)
 - [Object Detection using Haar-Cascade](https://github.com/nikunjparmar828/Haar-Cascade-Custom-Object-Detection)
 - [GPS + Visual-Inertial Odometry Data Calibration](https://github.com/nikunjparmar828/GPS-VIO-Data-Alignment/tree/main)
-### Controls:
+### Robot Controls:
 - [Sliding Mode Control for Quadrotor UAVs](https://github.com/nikunjparmar828/RBE502-Controls/tree/main/Quadrotor%20UAVs%20using%20Sliding%20Mode%20Control)
 - [Trajectory tracking for DOBOT CR-3 Robot](https://github.com/nikunjparmar828/RBE501-Dynamics-Code/tree/main/DOBOT%20CR-3%20Robot%20Trajectory%20Tracking)
 - [Robot Manipulator Controls](https://github.com/nikunjparmar828/RBE502-Controls)
